@@ -1,4 +1,4 @@
-# FC2N
+# FC<sup>2</sup>N
 FC<sup>2</sup>N: Fully Channel-Concatenated Network for Single Image Super-Resolution
 ================
 ![pic](./pictures/FC2N.png)
