@@ -89,8 +89,8 @@ class FC2N(model):
             
     def build_loss(self):
         # the piecewise constant decay for learning rate.
-        boundaries  = [400000, 800000, 1000000]
-        piece_value = [4e-4, 2e-4, 2e-4, 2e-4]
+        boundaries  = [400000, 800000]
+        piece_value = [2e-4, 1e-4, 0.5e-4]
         self.learning_rate = tf.train.piecewise_constant(self.global_steps, boundaries, piece_value)
         
         # Adam optimizer
@@ -125,8 +125,8 @@ class FC2N(model):
         
         return self
     
+    
     def build_summary(self):
-        
         tf.summary.scalar('lr',   self.learning_rate)
         tf.summary.scalar('loss', self.loss)
         
