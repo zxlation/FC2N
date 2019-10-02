@@ -11,11 +11,17 @@ Most current image super-resolution (SR) methods based on deep convolutional neu
 
 Dependencies
 --------
-
+* TensorFlow >= 1.9.0
+* Python >= 3.5
+* Numpy >= 1.15.0
+* Imageio 2.3.0
+* Termcolor
 
 
 Pretrained models and Results
 --------
+
+
 
 
 Model training
