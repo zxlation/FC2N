@@ -46,7 +46,14 @@ Examples of super-resolution
 Citations
 --------
 
-
+```citation
+    @article{Zhao2019FC2N,
+        title   = {FC2N: Fully channel-concatenated network for single image super-resolution},
+        author  = {Zhao, Xiaole and Liao, Ying and Li, Ye and Zhang, Tao and Zou, Xueming},
+        journal = {arXiv preprint arXiv:1907.03221?context=eess.IV},
+        year    = {2019}
+    }
+```
 
 
 
