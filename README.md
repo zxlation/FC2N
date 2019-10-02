@@ -36,6 +36,13 @@ Testing
 
 
 
+
+Examples of super-resolution
+--------
+![example1](./pictures/exp1.png)
+![example2](./pictures/exp2.png)
+
+
 Citations
 --------
 
