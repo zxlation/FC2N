@@ -1,4 +1,4 @@
-FC<sup>2</sup>N: Fully Channel-Concatenated Network for Single Image Super-Resolution
+FC<sup>2</sup>N: Fully Channel-Concatenated Network for Single Image Super-Resolution (under modification)
 ================
 ![pic](./pictures/FC2N.png)
 e-print: <a href="https://arxiv.org/abs/1907.03221?context=eess.IV">https://arxiv.org/abs/1907.03221?context=eess.IV</a>
