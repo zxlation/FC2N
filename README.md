@@ -34,15 +34,17 @@ The testing results on benchmark datasets for X2, X3 and X4 is also available at
 
 Model training
 --------
+To train the FC<sup>2</sup>N, you need to download the training data from the link above first: `FC2N/FC2N-datasets/`, and place them in the work directory of this project: `./datasets/DIV2K/...`. You can check whether the data is loaded correctly by running the 'data_loader.py'.
 
+Next, you need to check whether the options for model training are set correctly, which are contained in the script 'options.py'.
 
-
+Then to train the model, simply run the script 'train.py'.
 
 Testing
 --------
+Ather the model is well trained, the network parameters are stored in the directory: `./records/FC2N/`. 
 
-
-
+Check the options in the script 'options.py', and run 'test.py' (possibly require a little modification to this script).
 
 Examples of super-resolution
 --------
