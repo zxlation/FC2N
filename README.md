@@ -22,7 +22,7 @@ Pretrained models
 --------
 Some pretrained models are available at the following link. Note these results may be slightly different from those in the paper. 
 
-[https://zxlation.github.io/xiaole.github.com/](https://zxlation.github.io/xiaole.github.com/ "This is my homepage.")
+[https://pan.baidu.com/s/1eli43BzEF7KgNrT68jtWQw](https://pan.baidu.com/s/1eli43BzEF7KgNrT68jtWQw)
 
 
 Model training
