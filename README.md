@@ -21,9 +21,15 @@ Dependencies
 
 Pretrained models
 --------
-Some pretrained models are available at the following link: `FC2N/records/FC2N/`. Note these results may be slightly different from those in the paper. 
+Some pretrained models are available at the following link: `FC2N/records/FC2N/`. Note the results generated from these pretrained models may be slightly different from those in the paper. 
 
 [https://pan.baidu.com/s/1eli43BzEF7KgNrT68jtWQw](https://pan.baidu.com/s/1eli43BzEF7KgNrT68jtWQw)
+
+
+
+Testing results
+--------
+The testing results on benchmark datasets for X2, X3 and X4 is also available at the URL shown above: `FC2N/works/`. If you need the results of FC<sup>2</sup>N for visual comparison, you are free to download these results.
 
 
 Model training
