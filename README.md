@@ -1,6 +1,7 @@
 FC<sup>2</sup>N: Fully Channel-Concatenated Network for Single Image Super-Resolution (under modification)
 ================
 ![pic](./pictures/FC2N.png)
+
 e-print: <a href="https://arxiv.org/abs/1907.03221?context=eess.IV">https://arxiv.org/abs/1907.03221?context=eess.IV</a>
 
 Xiaole Zhao, Ying Liao, Ye Li, Tao Zhang, and Xueming Zou
@@ -20,7 +21,7 @@ Dependencies
 
 Pretrained models
 --------
-Some pretrained models are available at the following link. Note these results may be slightly different from those in the paper. 
+Some pretrained models are available at the following link: `FC2N/records/FC2N/`. Note these results may be slightly different from those in the paper. 
 
 [https://pan.baidu.com/s/1eli43BzEF7KgNrT68jtWQw](https://pan.baidu.com/s/1eli43BzEF7KgNrT68jtWQw)
 
