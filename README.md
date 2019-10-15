@@ -32,7 +32,7 @@ Testing results
 The testing results on benchmark datasets for X2, X3 and X4 is also available at the URL shown above: `FC2N/works/`. If you need the results of FC<sup>2</sup>N for visual comparison, you are free to download these results.
 
 
-Model training
+Training
 --------
 To train the FC<sup>2</sup>N, you need to download the training data from the link above first: `FC2N/FC2N-datasets/`, and place them in the work directory of this project: `./datasets/DIV2K/...`. You can check whether the data is loaded correctly by running the 'data_loader.py'.
 
