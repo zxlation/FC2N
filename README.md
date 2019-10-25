@@ -42,7 +42,7 @@ Then to train the model, simply run the script 'train.py'.
 
 Testing
 --------
-Ather the model is well trained, the network parameters are stored in the directory: `./records/FC2N/`. 
+After the model is well trained, the network parameters are stored in the directory: `./records/FC2N/`. 
 
 Check the options in the script 'options.py', and run 'test.py' (possibly require a little modification to this script).
 
