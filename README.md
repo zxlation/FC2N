@@ -4,7 +4,7 @@ FC<sup>2</sup>N: Fully Channel-Concatenated Network for Single Image Super-Resol
 
 e-print: <a href="https://arxiv.org/abs/1907.03221?context=eess.IV">https://arxiv.org/abs/1907.03221?context=eess.IV</a>
 
-![https://zxlation.github.io/xiaole.github.com/](Xiaole Zhao), Ying Liao, Ye Li, Tao Zhang, and Xueming Zou
+[Xiaole Zhao](https://zxlation.github.io/xiaole.github.com/), Ying Liao, Ye Li, Tao Zhang, and Xueming Zou
 
 Introduction
 --------
